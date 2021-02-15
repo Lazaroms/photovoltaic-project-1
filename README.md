@@ -1,2 +1,2 @@
-# photovoltaic-project-1
+# Photovoltaic-project-1
 diversity
